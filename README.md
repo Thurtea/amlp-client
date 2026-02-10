@@ -4,11 +4,11 @@ A lightweight, cross-platform MUD (Multi-User Dungeon) client built with Qt6, de
 
 ## Features
 
-- ✨ ANSI color support (16 colors)
-- 🔒 Password masking
-- 🌙 Dark theme optimized for long gaming sessions
-- 🚀 Fast connection to any telnet-based MUD server
-- 💻 Cross-platform (Windows, Linux, macOS)
+- ANSI color support (16 colors)
+- Password masking
+- Dark theme optimized for long gaming sessions
+- Fast connection to any telnet-based MUD server
+- Cross-platform (Windows, Linux, macOS)
 
 ## Screenshots
 
