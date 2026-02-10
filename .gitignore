@@ -1,0 +1,35 @@
+# Build directories
+build/
+Release/
+Debug/
+CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Qt
+.autogen/
+.moc
+moc_.cpp
+ui_.h
+
+# Executables
+*.exe
+*.app
+*.out
+
+# Dependencies
+*.dll
+platforms/
+
+# OS
+.DS_Store
+Thumbs.db
