@@ -180,7 +180,7 @@ private slots:
         QString low = text.toLower();
         if (low.contains("password:") || low.contains("pass:")) {
             passwordMode = true;
-            input->setEchoMode(QLineEdit::Password);
+            input->setEchoMode(QLineEdit::PasswordEchoOnEdit);
         }
 
         // Regex to find ANSI CSI sequences like \x1b[31m
