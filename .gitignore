@@ -33,3 +33,40 @@ platforms/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local build and packaging
+build_win/
+package/
+amlp-client-*.zip
+amlp-client-*.exe
+releases/
+build_backup_from_minimal_mud_client_20260210/
+
+# Build artifacts
+build_*/
+Release/
+Debug/
+*.vcxproj*
+*.sln
+.vs/
+*.pdb
+*.obj
+
+# CPack / installers
+*.zip
+*.exe
+
+# Qt autogen / moc
+.autogen/
+.moc
+moc_*.cpp
+ui_*.h
+
+# OS
+.DS_Store
+Thumbs.db
+
+# vcpkg caches (if vcpkg is inside repo)
+Tools/vcpkg/buildtrees/
+Tools/vcpkg/downloads/
+Tools/vcpkg/packages/
