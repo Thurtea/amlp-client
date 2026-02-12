@@ -18,6 +18,15 @@ A lightweight, cross-platform MUD (Multi-User Dungeon) client built with Qt6, de
 
 ![Screenshot 3](mudclient-icons/Screenshot%202026-02-10%20020052.png)
 
+Additional icons used in UI:
+
+![Connected 2](mudclient-icons/amlp-client-connected-2.png)
+![Connected](mudclient-icons/amlp-client-connected.png)
+![Connections](mudclient-icons/amlp-client-connections.png)
+![LS Command](mudclient-icons/amlp-client-ls-cmd.png)
+![Manage Connections](mudclient-icons/amlp-client-manage-connections.png)
+![Who Command](mudclient-icons/amlp-client-who-cmd.png)
+
 ## Building from Source
 
 ### Prerequisites
