@@ -12,11 +12,7 @@ A lightweight, cross-platform MUD (Multi-User Dungeon) client built with Qt6, de
 
 ## Screenshots
 
-![Screenshot 1](mudclient-icons/Screenshot%202026-02-10%20010213.png)
-
-![Screenshot 2](mudclient-icons/Screenshot%202026-02-10%20015811.png)
-
-![Screenshot 3](mudclient-icons/Screenshot%202026-02-10%20020052.png)
+Additional icons used in UI:
 
 Additional icons used in UI:
 
